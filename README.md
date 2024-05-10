@@ -15,7 +15,7 @@
 <p align="left">⚙️ | <code>Kafka</code></p>
 <p align="left">⚙️ | <code>API REST</code> <code>Microsserviços</code></p>
 <p align="left">⚙️ | <code>Spring Boot</code> <code>Spring Web</code> <code>Spring Security</code> <code>Spring Data JPA</code></p>
-<p align="left">⚙️ | <code>Spring Cloud OpenFeign</code> <code>Spring Cloud Eureka</code> <code>Spring Cloud Gateway</code> <code>Resilience4J</code></p>
+<p align="left">⚙️ | <code>Spring Cloud OpenFeign</code> <code>Spring Cloud Netflix</code> <code>Spring Cloud Gateway</code> <code>Resilience4J</code></p>
 <p align="left">⚙️ | <code>AWS S3</code> <code>AWS EC2</code> <code>AWS SNS</code> <code>AWS SQS</code> <code>AWS Lambda</code></p>
 <p align="left">⚙️ | <code>Docker</code></p>
 <p align="left">⚙️ | <code>JUnit</code> <code>Mockito</code></p>
