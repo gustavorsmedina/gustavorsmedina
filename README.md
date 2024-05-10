@@ -1,16 +1,24 @@
-<h3 align="center">Prazer, me chamo Gustavo. 👾</h3>
+<p align="center">Seja bem-vindo(a)! 👋</p>
 
 ---
 
-<p align="left">🖥️ | Desenvolvedor full-stack júnior.</p>
+<p align="left">🖥️ | Desenvolvedor back-end.</p>
 <p align="left">🎓 | 5º período - Ciência da Computação.</p>
-<p align="left">🖱️ | Visite meu site:  <a href="https://gustavomedina.tech" target="_blank">🚀</a> </p>
 
 ---
 
-<p align="left">⚙️ | <code>Java</code> <code>Spring</code> <code>JPA</code> <code>JUnit5</code> <code>Mockito</code> <code>Flyway</code> <code>MySQL</code> <code>C</code> </p>
-<p align="left">⚙️ | <code>HTML</code> <code>CSS</code> <code>Tailwind CSS</code> <code>JavaScript</code> <code>React</code> <code>JQuery</code> <code>AJAX</code> <code>PHP</code> </p>
-<p align="left">⚙️ | <code>Maven</code> <code>Git</code> <code>Docker</code> <code>Testes Unitários</code> <code>API REST</code> <code>Microsserviços</code> <code>Scrum</code> <code>Kanban</code></p>
+[![My Skills](https://skillicons.dev/icons?i=java,spring,kafka,aws,docker,mongodb,mysql,postgres)](https://skillicons.dev)
+
+---
+
+<p align="left">⚙️ | <code>Java</code></p>
+<p align="left">⚙️ | <code>Kafka</code></p>
+<p align="left">⚙️ | <code>API REST</code> <code>Microsserviços</code></p>
+<p align="left">⚙️ | <code>Spring Boot</code> <code>Spring Web</code> <code>Spring Security</code> <code>Spring Data JPA</code></p>
+<p align="left">⚙️ | <code>Spring Cloud OpenFeign</code> <code>Spring Cloud Eureka</code> <code>Spring Cloud Gateway</code></p>
+<p align="left">⚙️ | <code>AWS S3</code> <code>AWS EC2</code> <code>AWS SNS</code> <code>AWS SQS</code> </p>
+<p align="left">⚙️ | <code>Docker</code></p>
+<p align="left">⚙️ | <code>MongoDB</code> <code>MySQL</code> <code>PostgreSQL</code></p>
 
 ---
 
