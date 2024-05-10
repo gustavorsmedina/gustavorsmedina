@@ -29,7 +29,7 @@
   <a href="https://www.linkedin.com/in/gustavorsmedina/" target="_blank">
     <img src="https://www.svgrepo.com/show/452051/linkedin.svg" width="36" height="24" alt="linkedin logo"  />
   </a>
-  <a href="https://www.gustavomedina.tech" target="_blank">
+  <a href="https://gustavomedina.tech" target="_blank">
     <img src="https://www.svgrepo.com/show/236407/rocket-ship-launch-missile.svg" width="36" height="24" alt="rocket logo"  />
   </a>
 </div>
