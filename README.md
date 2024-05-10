@@ -2,7 +2,9 @@
 
 ---
 
-<p align="left">🖥️ | Desenvolvedor back-end com mais de um ano de experiência.</p>
+<p align="left">🖥️ | Desenvolvedor back-end.</p>
+<p align="left">📄 | Atuo hoje como desenvolvedor no setor financeiro da faculdade <a href="https://vest.doctum.edu.br/" target="_blank">@Doctum</a>, sendo responsável por desenvolver novas funcionalidades, novos serviços web, reestruturar e elaborar consultas SQL, corrigir e testar códigos.</p>
+<p align="left">📅 | Mais de um ano de experiência como desenvolvedor.</p>
 <p align="left">🎓 | 5º período - Ciência da Computação.</p>
 
 ---
@@ -11,7 +13,7 @@
 
 ---
 
-<p align="left">⚙️ | <code>Java</code></p>
+<p align="left">⚙️ | <code>Java</code> <code>Lombok</code> <code>Slf4j</code></p>
 <p align="left">⚙️ | <code>Kafka</code></p>
 <p align="left">⚙️ | <code>API REST</code> <code>Microsserviços</code></p>
 <p align="left">⚙️ | <code>Spring Boot</code> <code>Spring Web</code> <code>Spring Security</code> <code>Spring Data JPA</code></p>
@@ -20,7 +22,6 @@
 <p align="left">⚙️ | <code>Docker</code></p>
 <p align="left">⚙️ | <code>JUnit</code> <code>Mockito</code></p>
 <p align="left">⚙️ | <code>MongoDB</code> <code>MySQL</code> <code>PostgreSQL</code></p>
-<p align="left">⚙️ | <code>Lombok</code> <code>Slf4j</code></p>
 <p align="left">⚙️ | <code>Scrum</code> <code>Kanban</code></p>
 
 ---
