@@ -5,7 +5,7 @@
 <p align="left">🖥️ | Desenvolvedor back-end.</p>
 <p align="left">📄 | Atuo hoje como desenvolvedor no setor financeiro da faculdade <a href="https://vest.doctum.edu.br/" target="_blank">@Doctum</a>, sendo responsável por desenvolver novas funcionalidades, novos serviços web, reestruturar e elaborar consultas SQL, corrigir e testar códigos.</p>
 <p align="left">📅 | Mais de um ano de experiência como desenvolvedor.</p>
-<p align="left">🎓 | 5º período - Ciência da Computação.</p>
+<p align="left">🎓 | 6º período - Ciência da Computação.</p>
 
 ---
 
