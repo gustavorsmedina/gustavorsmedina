@@ -29,7 +29,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gustavorsmedina/" target="_blank">
-    Linkedin
+    LinkedIn
 </a>
 <span> - </span>
 
