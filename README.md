@@ -3,10 +3,9 @@
 ---
 
 <p align="left">🖥️ | Desenvolvedor Full-stack | 2 anos de experiência.</p>
+<p align="left">🎓 | 6º período - Ciência da Computação.</p>
 <p align="left">📄 | Ao longo da minha carreira, trabalhei com uma ampla gama de tecnologias, incluindo Java, Spring, PHP, Angular, JQuery, AJAX, MySQL e MongoDB. Tenho sucesso na arquitetura e implementação de sistemas escaláveis, confiáveis e seguros em plataformas de nuvem como AWS. </p>
 <p align="left">📄 | Tenho proficiência na criação de APIs robustas, arquitetura de microsserviços e na integração com serviços de nuvem. Minha sólida compreensão de ambientes Linux e gestão de infraestrutura garante implantações eficientes. </p>
-<p align="left">📄 | Se você está em busca de um profissional experiente e dedicado para oferecer soluções inovadoras e de alto impacto, estou pronto para contribuir com minha expertise. </p>
-<p align="left">🎓 | 6º período - Ciência da Computação.</p>
 
 ---
 
@@ -30,9 +29,11 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gustavorsmedina/" target="_blank">
-    <img src="https://www.svgrepo.com/show/452051/linkedin.svg" width="36" height="24" alt="linkedin logo"  />
-  </a>
-  <a href="https://gustavomedina.tech" target="_blank">
-    <img src="https://www.svgrepo.com/show/236407/rocket-ship-launch-missile.svg" width="36" height="24" alt="rocket logo"  />
-  </a>
+    Linkedin
+</a>
+<span> - </span>
+
+<a href="https://gustavomedina.tech" target="_blank">
+    Portfólio
+</a>
 </div>
