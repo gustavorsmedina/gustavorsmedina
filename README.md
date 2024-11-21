@@ -3,7 +3,7 @@
 ---
 
 <p align="left">🖥️ | Desenvolvedor Full-stack.</p>
-<p align="left">📅 | 2 anos de experiência como desenvolvedor.</p>
+<p align="left">📅 | 2 anos de experiência.</p>
 <p align="left">📄 | Ao longo da minha carreira, trabalhei com uma ampla gama de tecnologias, incluindo Java, Spring, PHP, Angular, JQuery, AJAX, MySQL e MongoDB. Tenho sucesso na arquitetura e implementação de sistemas escaláveis, confiáveis e seguros em plataformas de nuvem como AWS.</p>
 <p align="left">🎓 | 6º período - Ciência da Computação.</p>
 
