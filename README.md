@@ -2,9 +2,9 @@
 
 ---
 
-<p align="left">🖥️ | Desenvolvedor back-end.</p>
-<p align="left">📄 | Atuo hoje como desenvolvedor full-stack, sendo responsável por desenvolver novas funcionalidades, novos serviços web, reestruturar e elaborar consultas SQL, corrigir e testar códigos.</p>
+<p align="left">🖥️ | Desenvolvedor Full-stack.</p>
 <p align="left">📅 | 2 anos de experiência como desenvolvedor.</p>
+<p align="left">📄 | Ao longo da minha carreira, trabalhei com uma ampla gama de tecnologias, incluindo Java, Spring, PHP, Angular, JQuery, AJAX, MySQL e MongoDB. Tenho sucesso na arquitetura e implementação de sistemas escaláveis, confiáveis e seguros em plataformas de nuvem como AWS.</p>
 <p align="left">🎓 | 6º período - Ciência da Computação.</p>
 
 ---
@@ -14,6 +14,7 @@
 ---
 
 <p align="left">⚙️ | <code>Java</code> <code>Lombok</code> <code>Slf4j</code></p>
+<p align="left">⚙️ | <code>Angular</code> <code>JQuery</code> <code>AJAX</code></p>
 <p align="left">⚙️ | <code>Kafka</code></p>
 <p align="left">⚙️ | <code>API REST</code> <code>Microsserviços</code></p>
 <p align="left">⚙️ | <code>Spring Boot</code> <code>Spring Web</code> <code>Spring Security</code> <code>Spring Data JPA</code></p>
