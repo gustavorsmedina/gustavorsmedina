@@ -2,7 +2,7 @@
 
 ---
 
-<p align="left">🖥️ | Desenvolvedor Full-stack | 2 anos de experiência.</p>
+<p align="left">🖥️ | Engenheiro de Software @ PicPay.</p>
 <p align="left">🎓 | 7º período - Ciência da Computação.</p>
 <p align="left">📄 | Ao longo da minha carreira, adquiri conhecimento em uma ampla gama de tecnologias, incluindo PHP, Laravel, Java, Spring, Angular, JQuery, AJAX, MySQL e MongoDB. </p>
 <p align="left">📄 | Tenho proficiência na criação de APIs robustas, arquitetura de microsserviços e na integração com serviços de nuvem. </p>
